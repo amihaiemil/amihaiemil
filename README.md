@@ -5,4 +5,4 @@ I work on multiple projects around here, you can see the most interesting bellow
 
 ----
 
-I think Java is one of the best languages out there, but we can have something even better. That's why I created the [Queen](github.com/jvmqueen) programming language (or Queenlang).
+I think Java is one of the best languages out there, but we can have something even better. That's why I created the [Queen](https://github.com/jvmqueen) programming language (or Queenlang).
