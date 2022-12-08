@@ -5,7 +5,7 @@ I work on multiple projects around here, you can see the most interesting bellow
 
 ----
 
-I developed [Self XDSD](https://self-xdsd.com), a platform for automated project management of remote development teams, based on the [XDSD](https://www.xdsd.org/) principles.
+I developed [Self XDSD](https://self-xdsd.com), a platform which automates the management of remote development teams, based on the [XDSD](https://www.xdsd.org/) principles.
 
 ----
 
